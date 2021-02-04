@@ -11218,6 +11218,10 @@ video {
   font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
 }
 
+.font-ubu {
+  font-family: Ubuntu, sans-serif;
+}
+
 .font-thin {
   font-weight: 100;
 }
@@ -41840,6 +41844,10 @@ video {
     font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
   }
 
+  .sm\:font-ubu {
+    font-family: Ubuntu, sans-serif;
+  }
+
   .sm\:font-thin {
     font-weight: 100;
   }
@@ -72382,6 +72390,10 @@ video {
 
   .md\:font-mono {
     font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+  }
+
+  .md\:font-ubu {
+    font-family: Ubuntu, sans-serif;
   }
 
   .md\:font-thin {
@@ -102928,6 +102940,10 @@ video {
     font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
   }
 
+  .lg\:font-ubu {
+    font-family: Ubuntu, sans-serif;
+  }
+
   .lg\:font-thin {
     font-weight: 100;
   }
@@ -133472,6 +133488,10 @@ video {
     font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
   }
 
+  .xl\:font-ubu {
+    font-family: Ubuntu, sans-serif;
+  }
+
   .xl\:font-thin {
     font-weight: 100;
   }
@@ -164014,6 +164034,10 @@ video {
 
   .\32xl\:font-mono {
     font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+  }
+
+  .\32xl\:font-ubu {
+    font-family: Ubuntu, sans-serif;
   }
 
   .\32xl\:font-thin {

@@ -8,7 +8,17 @@
     <title>Book Store</title>
     <link rel="stylesheet" href="public/style.css">
 </head>
-<body>
-    <h1 class="text-red-500">Hello World</h1>
+<body class="antialiased">
+    <div class="bg-gray-700 min-h-screen">
+        <div class="flex justify-end">
+            <div class="text-gray-50 mt-1 space-x-1">
+                <a href="/login.php">login</a>
+                <span>register</span>
+            </div>
+        </div>
+        <div class="flex justify-center items-center mt-72">
+            <h1 class="text-white text-7xl">Book Worm</h1>
+        </div>
+    </div>
 </body>
 </html>
